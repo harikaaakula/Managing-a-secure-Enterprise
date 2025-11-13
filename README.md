@@ -77,15 +77,15 @@ This project required intensive research, critical thinking, and a deep applicat
 
 The following diagrams provide a quick visual overview of the strategic and technical components of the program:
 
-* [**Complete Cyber Defense Matrix**](./Assets/Cyber_Defense_Matrix_Complete.png)
-* [**Secure Network Architecture Diagram**](./Assets/Secure_Architecture_Diagram.png)
+* [**Complete Cyber Defense Matrix**](./Assets/Cyber_Defense_Matrix.png)
+* [**Secure Network Architecture Diagram**](./Assets/Secure_architecture_diagram.png)
 * [**Risk Heatmap and Prioritization**](./Assets/Risk_Heatmap.png)
-* [**Cyber Kill Chain Incident Analysis**](./Assets/Cyber_Kill_Chain_Analysis.png)
+* [**Cyber Kill Chain Incident Analysis**](./Assets/Cyber_Kill_Chain.png)
 * [**Security Team Organizational Structure**](./Assets/Security_Org_Structure.png)
 
 ---
 
 ## 📄 Final Deliverables
 
-* **Final Information Security Program Report (Tasks 1-14)**: [Final_Report.pdf](./Deliverables/Final_Report.pdf)
-* **Final Presentation Slides**: [Final_Presentation.pdf](./Deliverables/Final_Presentation.pdf)
+* **Final Information Security Program Report (Tasks 1-14)**: [Final_report.pdf](./Deliverables/Final_report.pdf)
+* **Presentation Slides**: [Presentation_phase1.pptx.pdf](./Deliverables/Presentation_phase1.pptx.pdf), [Presentation_phase2.pptx.pdf](./Deliverables/Presentation_phase2.pptx.pdf)
